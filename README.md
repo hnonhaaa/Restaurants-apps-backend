@@ -26,7 +26,7 @@ you need to add
 ```
  GOOGLE_MAPS_API_KEY=YOUR_API_KEY
 ```
-to env file
+to .env file
 
 
 ## Development Server
