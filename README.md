@@ -28,3 +28,12 @@ you need to add
 ```
 to env file
 
+
+## Development Server
+
+Start the development server on `http://localhost:8000`:
+
+```bash
+php artisan serve
+```
+
